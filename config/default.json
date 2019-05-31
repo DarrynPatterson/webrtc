@@ -1,0 +1,11 @@
+{
+  "mongoURI": "",
+  "jwtSecret": "",
+  "email": {
+    "host": "",
+    "port": 25,
+    "secure": false,
+    "username": "",
+    "password": ""
+  }
+}
